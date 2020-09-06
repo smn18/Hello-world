@@ -1,6 +1,2 @@
 # Hello-world
-just for experiment
-Hi humans
-I am Confucius
-I am also Qu Yuan
-I am Mengzi
+I am Li Bai
